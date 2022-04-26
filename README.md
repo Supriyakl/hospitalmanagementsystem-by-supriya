@@ -1,6 +1,6 @@
 
 # Hospital Management
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Supriya kl%20-red)
+![developer](supriya kl)
 ---
 
 ---
